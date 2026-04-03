@@ -214,3 +214,5 @@ __pycache__/
 .ipynb_checkpoints/
 *.pt
 *.bin
+
+*.DS_Store
