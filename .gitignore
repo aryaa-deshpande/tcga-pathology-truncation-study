@@ -216,3 +216,5 @@ __pycache__/
 *.bin
 
 *.DS_Store
+results/clinicalbert_first512/
+*.safetensors
