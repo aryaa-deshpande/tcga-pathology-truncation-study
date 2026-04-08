@@ -217,4 +217,5 @@ __pycache__/
 
 *.DS_Store
 results/clinicalbert_first512/
+results/clinicalbert_headtail/
 *.safetensors
